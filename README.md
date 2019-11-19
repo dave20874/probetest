@@ -16,6 +16,7 @@ Finally, view the results by running the Probes.ipynb Jupyter notebook.
 With a PC connected to the 3D printer, launch prconsole from a CMD window.  Best start with a fresh command window since we'll be
 grabbing all the text from it in the post-processing steps.
 
+```bash
 > cd \"Program Files"\Prusa3D\Pronterface
 > pronsole
 connect com7  (use the COM port of your 3D printer)
@@ -24,6 +25,7 @@ print
 
 <About 8-9 hours later>
 exit
+```
 
 ### Capture the output
 Select all text from that CMD window and paste it into a file, save as output.txt.  I did.  
